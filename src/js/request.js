@@ -1,5 +1,5 @@
 
-import loaderToggle from "./loader";
+import loaderToggle from "./loader"
 
 const request = async (resource) => {
     loaderToggle(true)
