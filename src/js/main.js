@@ -13,4 +13,4 @@ request(API).then((data) => {
 }).catch((error) => {
     alert(error.message)
 });
-console.log('HEllo Webpack');
+console.log('Helloo Webpack');
